@@ -1,0 +1,9 @@
+D:\labC\Copyright_LOLOLOL\Copyright_LOLOLOL\bin\Debug\Copyright_LOLOLOL.exe
+D:\labC\Copyright_LOLOLOL\Copyright_LOLOLOL\bin\Debug\Copyright_LOLOLOL.pdb
+D:\labC\Copyright_LOLOLOL\Copyright_LOLOLOL\obj\Debug\ResolveAssemblyReference.cache
+D:\labC\Copyright_LOLOLOL\Copyright_LOLOLOL\obj\Debug\Copyright_LOLOLOL.Form1.resources
+D:\labC\Copyright_LOLOLOL\Copyright_LOLOLOL\obj\Debug\Copyright_LOLOLOL.Properties.Resources.resources
+D:\labC\Copyright_LOLOLOL\Copyright_LOLOLOL\obj\Debug\Copyright_LOLOLOL.csproj.GenerateResource.Cache
+D:\labC\Copyright_LOLOLOL\Copyright_LOLOLOL\obj\Debug\Copyright_LOLOLOL.exe
+D:\labC\Copyright_LOLOLOL\Copyright_LOLOLOL\obj\Debug\Copyright_LOLOLOL.pdb
+D:\labC\Copyright_LOLOLOL\Copyright_LOLOLOL\obj\Debug\Copyright_LOLOLOL.Form2.resources
